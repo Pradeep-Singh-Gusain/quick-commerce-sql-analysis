@@ -185,7 +185,7 @@ quick-commerce-sql-analysis/
 ├── docs/
 │   └── data_dictionary.md
 ├── sql_scripts/
-│   ├── 01_schema_and_data_setup.sql
+│   ├── 01_schema_and_mock_data.sql
 │   ├── 02_basic_exploration.sql
 │   ├── 03_kpis_and_aggregations.sql
 │   ├── 04_sla_and_fleet_delays.sql
